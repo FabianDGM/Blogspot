@@ -1,3 +1,5 @@
  Esto es la historia de Fabian Gutierrez
 
 	El cual se salio de la escuela para seguir su sueño de programador
+
+Se salio de la carrera de ing. industrial
